@@ -1,37 +1,37 @@
 [
 	{
 	"Isim": "Mustafa Kemal Atatürk",
-	"DogunOlumTarihi": "1881-1938",
+	"DogumOlumTarihi": "1881-1938",
 	"ResimURL": "https://github.com/YsnGundogdu/h5200041yasingundogdu/blob/main/mustafaKemalAtat%C3%BCrk/Ataturk1930s.jpg?raw=true"	
 	},
 	
 	{
 	"Isim": "Albert Einstein",
-	"DogunTarihi": "1879-1955",
+	"DogumOlumTarihi": "1879-1955",
 	"ResimURL": "https://github.com/YsnGundogdu/h5200041yasingundogdu/blob/main/albertEinstein/Einstein_patentoffice.jpg?raw=true"
 	},
 	
 	{
 	"Isim": "Charles Darwin",
-	"DogunTarihi": "1809-1882",
+	"DogumOlumTarihi": "1809-1882",
 	"ResimURL": "https://github.com/YsnGundogdu/h5200041yasingundogdu/blob/main/charlesDarwin/Charles_Darwin_1880.jpg?raw=true"
 	},
 	
 	{
 	"Isim": "Isaac Newton",
-	"DogunTarihi": "1643-1727",
+	"DogumOlumTarihi": "1643-1727",
 	"ResimURL": "https://github.com/YsnGundogdu/h5200041yasingundogdu/blob/main/isaacNewton/GodfreyKneller-IsaacNewton-1689.jpg?raw=true"
 	},
 	
 	{
 	"Isim": "George Washington",
-	"DogunTarihi": "1732-1799",
+	"DogumOlumTarihi": "1732-1799",
 	"ResimURL": "https://github.com/YsnGundogdu/h5200041yasingundogdu/blob/main/georgeWashington/Portrait_of_George_Washington-transparent.png?raw=true"
 	},
 	
 	{
 	"Isim": "Galileo Galilei",
-	"DogunTarihi": "1561-1642",
+	"DogumOlumTarihi": "1561-1642",
 	"ResimURL": "https://github.com/YsnGundogdu/h5200041yasingundogdu/blob/main/galileoGalilei/800px-Galileo.arp.300pix.jpg?raw=true"
 	}
 	
